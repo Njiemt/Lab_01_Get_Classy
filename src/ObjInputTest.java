@@ -1,5 +1,3 @@
-package Test;
-
 public class ObjInputTest {
 
     public static void main(String[] args) {
